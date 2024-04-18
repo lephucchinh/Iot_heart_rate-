@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750638496295",
+    "project_id": "iot-realtime-a0b41",
+    "storage_bucket": "iot-realtime-a0b41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750638496295:android:76a667b97607b45f71ac02",
+        "android_client_info": {
+          "package_name": "com.example.iot_realtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCigNSL7tJrvGqetGvGgsVUYpfC0N15lrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
